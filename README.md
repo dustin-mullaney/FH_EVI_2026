@@ -24,7 +24,7 @@ Questions to think about as you read (we will discuss next week):
 
 ### Week 2-3: Background reading - protein language models
 
-Read the ESMC and EVO2 papers: `readings/ESMC.pdf` and `readings/EVO2.pdf`
+Read the ESMC and EVO2 papers: `readings/ESMC.pdf` and https://www.nature.com/articles/s41586-026-10176-5 (EVO2 file is too big for github, email me if you can't access)
 
 Questions to think about as you read:
 
