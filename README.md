@@ -24,7 +24,7 @@ Questions to think about as you read (we will discuss next week):
 
 ### Week 2: Background reading - protein language models
 
-Read the ESM paper: `readings/ESM3.pdf`
+Read the ESM paper: `readings/ESMC.pdf`
 
 Questions to think about as you read:
 
