@@ -10,6 +10,7 @@ tbd
 |---|---|
 | [`week01_structure_based_design/`](week01_structure_based_design/) | Week 1 reading + discussion questions (de novo protein design review) |
 | [`week02-03_protein_language_models/`](week02-03_protein_language_models/) | Weeks 2-3 reading + discussion questions (ESMC and EVO2) |
+| [`week04-06_target_selection/`](week04-06_target_selection/) | Weeks 4-6 target selection and project planning (proposal due) |
 | [`learn_python/`](learn_python/) | Python lessons and notebooks (run them in Google Colab) |
 | [`sai/`](sai/) | Sai's project folder |
 | [`sonia/`](sonia/) | Sonia's project folder |
